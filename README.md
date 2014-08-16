@@ -10,3 +10,5 @@ Usage
 Edit src/MultiplePackagePurchaser.java with your login credentials.
 
 Change `packageId` to the packageId you'd like to attempt to purchase multiple times.
+Change `yourEmail` to your email associated with your RotMG account.
+Change `yourPassword` to your password associated with your RotMG account.
