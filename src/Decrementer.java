@@ -4,7 +4,7 @@ import java.util.concurrent.CountDownLatch;
  * 
  * Decrementer is a simple class that uses a CountDownLatch and counts it down in one second intervals.
  * 
- * @author dwdude
+ * @author gendelbendel
  * 
  * 
  */

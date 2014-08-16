@@ -9,7 +9,7 @@ import java.util.concurrent.CountDownLatch;
  * This was written to attempt to receieve multiple free backpacks during the promo, where
  * it was successful in doing so.
  * 
- * @author dwdude
+ * @author gendelbendel
  * 
  * 
  */

@@ -12,7 +12,7 @@ import java.util.concurrent.CountDownLatch;
  * 
  * Purchase is used for sending a request to purchase a package specified in the constructor.
  * 
- * @author dwdude
+ * @author gendelbendel
  * 
  * 
  */
