@@ -12,3 +12,14 @@ Edit src/MultiplePackagePurchaser.java with your login credentials.
 1. Change `packageId` to the packageId you'd like to attempt to purchase multiple times. (`377` is the free backback package, for instance).
 2. Change `yourEmail` to your email associated with your RotMG account.
 3. Change `yourPassword` to your password associated with your RotMG account.
+
+
+Troubleshooting
+===============
+
+* `<Error>Account not found</Error>`
+The email/password combination you used is incorrect. Ensure the email and password is correct.
+* `<Error>WebLoginDialig.passwordResetBlock</Error>`
+The account you provided still needs its password reset from the Swatsec incident.
+
+I will update the troubleshooting section as needed, when/if necessary.
