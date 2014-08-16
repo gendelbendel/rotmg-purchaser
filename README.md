@@ -8,4 +8,5 @@ Usage
 ===============
 
 Edit src/MultiplePackagePurchaser.java with your login credentials.
-Change packageId to the packageId you'd like to attempt to purchase multiple times.
+
+Change `packageId` to the packageId you'd like to attempt to purchase multiple times.
