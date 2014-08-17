@@ -1,3 +1,5 @@
+package com.gendelbendel.tools;
+
 import java.util.concurrent.CountDownLatch;
 
 /* Decrementer.java

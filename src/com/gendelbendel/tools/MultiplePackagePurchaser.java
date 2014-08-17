@@ -1,3 +1,5 @@
+package com.gendelbendel.tools;
+
 import java.util.concurrent.CountDownLatch;
 
 
@@ -13,6 +15,8 @@ import java.util.concurrent.CountDownLatch;
  * 
  * 
  */
+
+
 
 public class MultiplePackagePurchaser 
 {
