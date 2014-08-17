@@ -21,5 +21,7 @@ Troubleshooting
 The email/password combination you used is incorrect. Ensure the email and password is correct.
 * `<Error>WebLoginDialig.passwordResetBlock</Error>`
 The account you provided still needs its password reset from the Swatsec incident.
+* `Success Thread: xx`
+Each one of these lines you see equates to one successful package purchase.
 
 I will update the troubleshooting section as needed, when/if necessary.
