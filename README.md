@@ -7,7 +7,7 @@ Small program to send multiple request to purchase a package in the game "Realm 
 Usage
 ===============
 
-Edit src/MultiplePackagePurchaser.java with your login credentials.
+Edit [MultiplePackagePurchaser.java](src/com/gendelbendel/tools/MultiplePackagePurchaser.java) with your login credentials.
 
 1. Change `packageId` to the packageId you'd like to attempt to purchase multiple times. (`377` is the free backback package, for instance).
 2. Change `yourEmail` to your email associated with your RotMG account.
