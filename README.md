@@ -4,6 +4,12 @@ rotmg-purchaser
 Small program to send multiple request to purchase a package in the game "Realm of the Mad God".
 
 
+PLEASE NOTE
+===============
+
+Use this at your own risk. There are plenty of reports of people getting banned for using this. You have been warned.
+
+
 Usage
 ===============
 
